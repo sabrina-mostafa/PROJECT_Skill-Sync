@@ -84,8 +84,8 @@ npm run build
 B.Sc. in Computer Science, IIUC <br/>
 Chittagong, Bangladesh
 
-* GitHub: [sabrina-mostafa](https://www.linkedin.com/in/sabrina-mostafa-389114207/)
-* LinkedIn: [Sabrina Mostafa](https://linkedin.com/in/your-profile)
+* GitHub: [sabrina-mostafa](https://github.com/sabrina-mostafa)
+* LinkedIn: [Sabrina Mostafa](https://www.linkedin.com/in/sabrina-mostafa-389114207/)
 * Email: [sabrinamostafa9900@gmail.com](mailto:sabrinamostafa9900@gmail.com)
 
 ---
