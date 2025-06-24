@@ -30,7 +30,7 @@ Designed with simplicity and elegance in mind, it offers animated transitions, c
 
 ---
 
-## 🚀 Tech Stack
+## 🚪 Tech Stack
 
 | Layer         | Tech                              |
 | ------------- | --------------------------------- |
@@ -43,7 +43,7 @@ Designed with simplicity and elegance in mind, it offers animated transitions, c
 
 ---
 
-## 🚪 Live Demo
+## 🚀 Live Demo
 
 [Live Deployment ➜](https://skill-sync-da8i.vercel.app/)
 
@@ -51,10 +51,15 @@ Designed with simplicity and elegance in mind, it offers animated transitions, c
 
 ## 📷 Screenshots
 
-> Add demo images here for: Skills View, Timeline, Exported PDF
+> Some Demo Images: Skills View, Timeline, Exported PDF
 > - Skill Dashboard
+![Screenshot 2025-06-25 021331](https://github.com/user-attachments/assets/0e73f1bb-395f-41a0-b18e-7d7d8c47a98c)
+
 > - Timeline view
-> - PDF preview
+![Screenshot 2025-06-25 021421](https://github.com/user-attachments/assets/e99e14c2-5515-4daf-9c23-34641fa8689c)
+
+> - PDF preview <br/>
+![Screenshot 2025-06-25 021540](https://github.com/user-attachments/assets/7432b962-d422-426b-8193-daef0bad0ee0)
 
 ---
 
