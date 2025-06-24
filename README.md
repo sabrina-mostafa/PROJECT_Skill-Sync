@@ -1,12 +1,92 @@
-# React + Vite
+# SkillSync — Smart Skill Tracker & Career Aligner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A beautifully designed, interactive platform to track, manage, and present your skills and career growth journey with confidence.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Overview
 
-## Expanding the ESLint configuration
+**SkillSync** is a responsive, theme-adaptive, and exportable skill management application developed to help users:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Organize and rate their skills
+* Document career milestones
+* Showcase projects
+* Generate professional PDFs for recruiters
+
+Designed with simplicity and elegance in mind, it offers animated transitions, clean UI, and a personal branding touch.
+
+---
+
+## 🎓 Key Features
+
+* 👉 **Skill Tracker**: Add skills by category, rate confidence (1–5 stars), and remove/edit easily.
+* 🔍 **Search & Filter**: Real-time filtering for streamlined navigation.
+* 🌐 **Theme Customization**: Toggle between Light, Dark, Sepia, and Forest themes.
+* 🔄 **Animated Transitions**: Seamless and delightful user experience powered by Framer Motion.
+* 📅 **Interactive Timeline**: Visual storytelling of your journey using vertical timeline component.
+* 📄 **PDF Resume Export**: Export your full profile in a polished, resume-style PDF using `@react-pdf/renderer`.
+* 📂 **Project Listing**: Add personal/professional projects with descriptions and live links.
+* 👤 **Profile Information**: Include your name, title, and links (GitHub, LinkedIn, Email) for personal branding.
+
+---
+
+## 🚀 Tech Stack
+
+| Layer         | Tech                              |
+| ------------- | --------------------------------- |
+| **Frontend**  | React, Tailwind CSS, DaisyUI      |
+| **Routing**   | React Router DOM                  |
+| **State**     | Redux Toolkit                     |
+| **Animation** | Framer Motion                     |
+| **PDF**       | @react-pdf/renderer               |
+| **Timeline**  | react-vertical-timeline-component |
+
+---
+
+## 🚪 Live Demo
+
+[Live Deployment ➜](https://skill-sync-da8i.vercel.app/)
+
+---
+
+## 📷 Screenshots
+
+> Add demo images here for: Skills View, Timeline, Exported PDF
+> - Skill Dashboard
+> - Timeline view
+> - PDF preview
+
+---
+
+## 📆 Getting Started
+
+### Clone & Setup
+
+```bash
+git clone https://github.com/sabrina-mostafa/PROJECT_Skill-Sync.git
+cd PROJECT_Skill-Sync
+npm install
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 👥 About the Developer
+
+**Sabrina Mostafa** <br/>
+*Frontend Developer* | *Competitive Programmer* | *Full-Stack Enthusiast* <br/>
+B.Sc. in Computer Science, IIUC <br/>
+Chittagong, Bangladesh
+
+* GitHub: [sabrina-mostafa](https://www.linkedin.com/in/sabrina-mostafa-389114207/)
+* LinkedIn: [Sabrina Mostafa](https://linkedin.com/in/your-profile)
+* Email: [sabrinamostafa9900@gmail.com](mailto:sabrinamostafa9900@gmail.com)
+
+---
+
