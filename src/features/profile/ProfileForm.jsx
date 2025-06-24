@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { setProfile } from '../profile/profileSlice';
+import { setProfile } from '../profile/ProfileSlice';
 import ExportPDF from '../../components/ExportPDF';
 
 const ProfileForm = ({ onClose }) => {
