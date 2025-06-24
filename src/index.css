@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+/* without this line theme will be as same as the system's theme mode */
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+html .vertical-timeline::before {
+  background-color: #d1d5db; /* gray-300 for light mode */
+}
+
+.dark .vertical-timeline::before {
+  background-color: white; /* slate-900 for dark mode */
+  width: 2px;
+}
+
+
+html.sepia body {
+  background-color: #f4ecd8;
+  color: #4b3f2f;
+}
+
+html.forest body {
+  background-color: #9ee7d1;
+  color: #084c4c;
+}
+
+html.dark body {
+  background-color: #374151;
+}
+
+html.light body {
+  background-color: #e5e7eb;
+  color: black;
+}
+
+
+.perspective {
+  perspective: 1000px;
+}
+
+.transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
